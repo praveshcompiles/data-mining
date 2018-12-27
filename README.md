@@ -13,4 +13,4 @@ item-based collaborative filtering approach gave better results.
 
 
 #### Classification of Urban Objects
-The dataset consisted of features extracted from aerial images of urban environments, which were originally collected to help with sustainable urban planning. The labels in the dataset describe the type of land that is represented by the image, such as trees or buildings. The dataset contains the short descriptions and numeric values about the aerial images and doesn't contain the actual aerial images. The task was to predict the type of urbna object in the environment.
+The dataset consisted of features extracted from aerial images of urban environments, which were originally collected to help with sustainable urban planning. The labels in the dataset describe the type of land that is represented by the image, such as trees or buildings. The dataset contains the short descriptions and numeric values about the aerial images and doesn't contain the actual aerial images. The task was to predict the type of urban object in the environment.
